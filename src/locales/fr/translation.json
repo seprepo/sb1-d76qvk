@@ -1,0 +1,14 @@
+  {
+    "welcome": "Bienvenue",
+    "createFolder": "Créer un nouveau dossier",
+    "uploadFiles": "Importer",
+    "newFolder": "Nouveau dossier",
+    "name": "Nom",
+    "title": "Titre",
+    "description": "Description",
+    "cancel": "Annuler",
+    "create": "Créer",
+    "dropzoneText": "Glissez et déposez des fichiers ici, ou cliquez pour sélectionner",
+    "home": "Accueil",
+    "elements": "{{count}} élément(s)"
+  }

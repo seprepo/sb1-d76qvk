@@ -1,0 +1,14 @@
+{
+  "welcome": "Welcome",
+  "createFolder": "Create New Folder",
+  "uploadFiles": "Upload Files",
+  "newFolder": "New Folder",
+  "name": "Name",
+  "title": "Title",
+  "description": "Description",
+  "cancel": "Cancel",
+  "create": "Create",
+  "dropzoneText": "Drag & drop some files here, or click to select files",
+  "home": "Home",
+  "elements": "{{count}} element(s)"
+}
